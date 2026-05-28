@@ -1,2 +1,2 @@
-command_test 2 0.00350852
+command_test 3 0.00262542
 ---
