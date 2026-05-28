@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/command_test.dir/link.d CMakeFiles/command_test.dir/tests/command_test.cpp.o -o command_test  libcommand_lib.a
