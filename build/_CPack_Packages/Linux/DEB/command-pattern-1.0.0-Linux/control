@@ -1,0 +1,9 @@
+Architecture: amd64
+Description: Command pattern example in C++
+Maintainer: Lotnik Vladislav
+Package: command-pattern
+Priority: optional
+Section: devel
+Version: 1.0.0
+Installed-Size: 32
+
